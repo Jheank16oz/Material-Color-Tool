@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Material Color Tool</string>
+    <string name="primario">Primario</string>
+    <string name="segunfario">Segundario</string>
+</resources>
