@@ -1,11 +1,13 @@
 package com.jheank16oz.materialcolortool.color
 
+import android.content.Intent
 import android.os.Bundle
 import android.support.v4.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import com.jheank16oz.materialcolortool.R
+import com.jheank16oz.materialcolortool.selectcolor.SelectColorActivity
 import kotlinx.android.synthetic.main.color_frag.view.*
 
 class ColorFragment : Fragment(), ColorContract.View {
@@ -42,6 +44,7 @@ class ColorFragment : Fragment(), ColorContract.View {
     }
 
     override fun showAddPrimaryColor() {
+        startActivity(Intent(context,SelectColorActivity::class.java))
     }
 
     override fun showAddSecondaryColor() {

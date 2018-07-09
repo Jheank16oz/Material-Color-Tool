@@ -6,11 +6,11 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import com.jheank16oz.materialcolortool.R
-import kotlinx.android.synthetic.main.color_frag.view.*
+import io.doist.recyclerviewext.sticky_headers.StickyHeadersLinearLayoutManager
+import kotlinx.android.synthetic.main.selectcolor_frag.*
 import kotlinx.android.synthetic.main.selectcolor_frag.view.*
 
-class SelectColorFragment : Fragment(), SelectColorContract.View {
-
+class SelectColorFragment : Fragment(),SelectColorViewHolder.Callbacks, SelectColorContract.View {
 
     override lateinit var presenter: SelectColorContract.Presenter
     override var isActive = false
@@ -23,19 +23,34 @@ class SelectColorFragment : Fragment(), SelectColorContract.View {
     }
 
 
+    private lateinit var mViewAdapter: SelectColorAdapter
+
     override fun onCreateView(inflater: LayoutInflater, container: ViewGroup?,
                               savedInstanceState: Bundle?): View? {
         val root = inflater.inflate(R.layout.selectcolor_frag, container, false)
+
         with(root) {
+            //se initializa la lista
             list.addItemDecoration(DividerDecoration(context))
             list.setHasFixedSize(true)
-            list.setLayoutManager(
-                    StickyHeadersLinearLayoutManager<ScheduleDayAdapter>(context))
-            mViewAdapter = ScheduleDayAdapter(context, this, mTagMetadata, true)
-            list.setAdapter(mViewAdapter)
+            list.layoutManager = StickyHeadersLinearLayoutManager<SelectColorAdapter>(context)
+            mViewAdapter = SelectColorAdapter(this@SelectColorFragment)
+            list.adapter = mViewAdapter
+
+            presenter.initializeData()
         }
         setHasOptionsMenu(true)
         return root
+    }
+
+
+
+    override fun displayData(data: ArrayList<Any>) {
+        mViewAdapter.addAll(data)
+    }
+
+    override fun onColorClicked(colorId: Int) {
+
     }
 
     companion object {
@@ -43,6 +58,4 @@ class SelectColorFragment : Fragment(), SelectColorContract.View {
         fun newInstance() =
                 SelectColorFragment()
     }
-
-
 }

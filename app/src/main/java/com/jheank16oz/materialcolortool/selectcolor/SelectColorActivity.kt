@@ -3,8 +3,6 @@ package com.jheank16oz.materialcolortool.selectcolor
 import android.os.Bundle
 import com.jheank16oz.materialcolortool.BaseActivity
 import com.jheank16oz.materialcolortool.R
-import com.jheank16oz.materialcolortool.color.ColorFragment
-import com.jheank16oz.materialcolortool.color.ColorPresenter
 import com.jheank16oz.materialcolortool.util.replaceFragmentInActivity
 
 class SelectColorActivity : BaseActivity() {
