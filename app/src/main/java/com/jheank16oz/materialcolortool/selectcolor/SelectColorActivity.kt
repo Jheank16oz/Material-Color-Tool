@@ -21,6 +21,6 @@ class SelectColorActivity : BaseActivity() {
                         }
 
         // Create the presenter
-        selectColorPresenter = SelectColorPresenter(selectColorFragment)
+        selectColorPresenter = SelectColorPresenter(selectColorFragment, this)
     }
 }

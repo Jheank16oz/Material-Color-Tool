@@ -1,0 +1,1878 @@
+[
+  {
+    "name": "Red",
+    "type": "break"
+  },
+  {
+    "primaryColor": "#ffebee",
+    "primaryLightColor": "#ffffff",
+    "primaryDarkColor": "#ccb9bc",
+    "type": "free", "name": "50",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#ffcdd2",
+    "primaryLightColor": "#ffffff",
+    "primaryDarkColor": "#cb9ca1",
+    "type": "free", "name": "100",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#ef9a9a",
+    "primaryLightColor": "#ffcccb",
+    "primaryDarkColor": "#ba6b6c",
+    "type": "free", "name": "200",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#e57373",
+    "primaryLightColor": "#ffa4a2",
+    "primaryDarkColor": "#af4448",
+    "type": "free", "name": "300",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#ef5350",
+    "primaryLightColor": "#ff867c",
+    "primaryDarkColor": "#b61827",
+    "type": "free", "name": "400",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#f44336",
+    "primaryLightColor": "#ff7961",
+    "primaryDarkColor": "#ba000d",
+    "type": "free", "name": "500",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#e53935",
+    "primaryLightColor": "#ff6f60",
+    "primaryDarkColor": "#ab000d",
+    "type": "free", "name": "600",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#d32f2f",
+    "primaryLightColor": "#ff6659",
+    "primaryDarkColor": "#9a0007",
+    "type": "free", "name": "700",
+    "primaryTextColor": "#ffffff"
+  },
+  {
+    "primaryColor": "#c62828",
+    "primaryLightColor": "#ff5f52",
+    "primaryDarkColor": "#8e0000",
+    "type": "free", "name": "800",
+    "primaryTextColor": "#ffffff"
+  },
+  {
+    "primaryColor": "#b71c1c",
+    "primaryLightColor": "#f05545",
+    "primaryDarkColor": "#7f0000",
+    "type": "free", "name": "900",
+    "primaryTextColor": "#ffffff"
+  },
+  {
+    "primaryColor": "#ff8a80",
+    "primaryLightColor": "#ffbcaf",
+    "primaryDarkColor": "#c85a54",
+    "type": "free", "name": "A100",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#ff5252",
+    "primaryLightColor": "#ff867f",
+    "primaryDarkColor": "#c50e29",
+    "type": "free", "name": "A200",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#ff1744",
+    "primaryLightColor": "#ff616f",
+    "primaryDarkColor": "#c4001d",
+    "type": "free", "name": "A400",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#d50000",
+    "primaryLightColor": "#ff5131",
+    "primaryDarkColor": "#9b0000",
+    "type": "free", "name": "A700",
+    "primaryTextColor": "#ffffff"
+  },
+
+  {
+    "name": "Pink",
+    "type": "break"
+  },
+  {
+    "primaryColor": "#fce4ec",
+    "primaryLightColor": "#ffffff",
+    "primaryDarkColor": "#c9b2ba",
+    "type": "free", "name": "50",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#f8bbd0",
+    "primaryLightColor": "#ffeeff",
+    "primaryDarkColor": "#c48b9f",
+    "type": "free", "name": "100",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#f48fb1",
+    "primaryLightColor": "#ffc1e3",
+    "primaryDarkColor": "#bf5f82",
+    "type": "free", "name": "200",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#f06292",
+    "primaryLightColor": "#ff94c2",
+    "primaryDarkColor": "#ba2d65",
+    "type": "free", "name": "300",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#ec407a",
+    "primaryLightColor": "#ff77a9",
+    "primaryDarkColor": "#b4004e",
+    "type": "free", "name": "400",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#e91e63",
+    "primaryLightColor": "#ff6090",
+    "primaryDarkColor": "#b0003a",
+    "type": "free", "name": "500",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#d81b60",
+    "primaryLightColor": "#ff5c8d",
+    "primaryDarkColor": "#a00037",
+    "type": "free", "name": "600",
+    "primaryTextColor": "#ffffff"
+  },
+  {
+    "primaryColor": "#c2185b",
+    "primaryLightColor": "#fa5788",
+    "primaryDarkColor": "#8c0032",
+    "type": "free", "name": "700",
+    "primaryTextColor": "#ffffff"
+  },
+  {
+    "primaryColor": "#ad1457",
+    "primaryLightColor": "#e35183",
+    "primaryDarkColor": "#78002e",
+    "type": "free", "name": "800",
+    "primaryTextColor": "#ffffff"
+  },
+  {
+    "primaryColor": "#880e4f",
+    "primaryLightColor": "#bc477b",
+    "primaryDarkColor": "#560027",
+    "type": "free", "name": "900",
+    "primaryTextColor": "#ffffff"
+  },
+  {
+    "primaryColor": "#ff80ab",
+    "primaryLightColor": "#ffb2dd",
+    "primaryDarkColor": "#c94f7c",
+    "type": "free", "name": "A100",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#ff4081",
+    "primaryLightColor": "#ff79b0",
+    "primaryDarkColor": "#c60055",
+    "type": "free", "name": "A200",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#f50057",
+    "primaryLightColor": "#ff5983",
+    "primaryDarkColor": "#bb002f",
+    "type": "free", "name": "A400",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#c51162",
+    "primaryLightColor": "#fd558f",
+    "primaryDarkColor": "#8e0038",
+    "type": "free", "name": "A700",
+    "primaryTextColor": "#ffffff"
+  },
+
+
+  {
+    "name": "Purple",
+    "type": "break"
+  },
+  {
+    "primaryColor": "#f3e5f5",
+    "primaryLightColor": "#ffffff",
+    "primaryDarkColor": "#c0b3c2",
+    "type": "free", "name": "50",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#e1bee7",
+    "primaryLightColor": "#fff1ff",
+    "primaryDarkColor": "#af8eb5",
+    "type": "free", "name": "100",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#ce93d8",
+    "primaryLightColor": "#ffc4ff",
+    "primaryDarkColor": "#9c64a6",
+    "type": "free", "name": "200",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#ba68c8",
+    "primaryLightColor": "#ee98fb",
+    "primaryDarkColor": "#883997",
+    "type": "free", "name": "300",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#ab47bc",
+    "primaryLightColor": "#df78ef",
+    "primaryDarkColor": "#790e8b",
+    "type": "free", "name": "400",
+    "primaryTextColor": "#ffffff"
+  },
+  {
+    "primaryColor": "#9c27b0",
+    "primaryLightColor": "#d05ce3",
+    "primaryDarkColor": "#6a0080",
+    "type": "free", "name": "500",
+    "primaryTextColor": "#ffffff"
+  },
+  {
+    "primaryColor": "#8e24aa",
+    "primaryLightColor": "#c158dc",
+    "primaryDarkColor": "#5c007a",
+    "type": "free", "name": "600",
+    "primaryTextColor": "#ffffff"
+  },
+  {
+    "primaryColor": "#7b1fa2",
+    "primaryLightColor": "#ae52d4",
+    "primaryDarkColor": "#4a0072",
+    "type": "free", "name": "700",
+    "primaryTextColor": "#ffffff"
+  },
+  {
+    "primaryColor": "#6a1b9a",
+    "primaryLightColor": "#9c4dcc",
+    "primaryDarkColor": "#38006b",
+    "type": "free", "name": "800",
+    "primaryTextColor": "#ffffff"
+  },
+  {
+    "primaryColor": "#4a148c",
+    "primaryLightColor": "#7c43bd",
+    "primaryDarkColor": "#12005e",
+    "type": "free", "name": "900",
+    "primaryTextColor": "#ffffff"
+  },
+  {
+    "primaryColor": "#ea80fc",
+    "primaryLightColor": "#ffb2ff",
+    "primaryDarkColor": "#b64fc8",
+    "type": "free", "name": "A100",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#e040fb",
+    "primaryLightColor": "#ff79ff",
+    "primaryDarkColor": "#aa00c7",
+    "type": "free", "name": "A200",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#d500f9",
+    "primaryLightColor": "#ff5bff",
+    "primaryDarkColor": "#9e00c5",
+    "type": "free", "name": "A400",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#aa00ff",
+    "primaryLightColor": "#e254ff",
+    "primaryDarkColor": "#7200ca",
+    "type": "free", "name": "A700",
+    "primaryTextColor": "#ffffff"
+  },
+
+  {
+    "name": "Deep Purple",
+    "type": "break"
+  },
+  {
+    "primaryColor": "#ede7f6",
+    "primaryLightColor": "#ffffff",
+    "primaryDarkColor": "#bbb5c3",
+    "type": "free", "name": "50",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#d1c4e9",
+    "primaryLightColor": "#fff7ff",
+    "primaryDarkColor": "#a094b7",
+    "type": "free", "name": "100",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#b39ddb",
+    "primaryLightColor": "#e6ceff",
+    "primaryDarkColor": "#836fa9",
+    "type": "free", "name": "200",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#9575cd",
+    "primaryLightColor": "#c7a4ff",
+    "primaryDarkColor": "#65499c",
+    "type": "free", "name": "300",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#7e57c2",
+    "primaryLightColor": "#b085f5",
+    "primaryDarkColor": "#4d2c91",
+    "type": "free", "name": "400",
+    "primaryTextColor": "#ffffff"
+  },
+  {
+    "primaryColor": "#673ab7",
+    "primaryLightColor": "#9a67ea",
+    "primaryDarkColor": "#320b86",
+    "type": "free", "name": "500",
+    "primaryTextColor": "#ffffff"
+  },
+  {
+    "primaryColor": "#5e35b1",
+    "primaryLightColor": "#9162e4",
+    "primaryDarkColor": "#280680",
+    "type": "free", "name": "600",
+    "primaryTextColor": "#ffffff"
+  },
+  {
+    "primaryColor": "#512da8",
+    "primaryLightColor": "#8559da",
+    "primaryDarkColor": "#140078",
+    "type": "free", "name": "700",
+    "primaryTextColor": "#ffffff"
+  },
+  {
+    "primaryColor": "#4527a0",
+    "primaryLightColor": "#7953d2",
+    "primaryDarkColor": "#000070",
+    "type": "free", "name": "800",
+    "primaryTextColor": "#ffffff"
+  },
+  {
+    "primaryColor": "#311b92",
+    "primaryLightColor": "#6746c3",
+    "primaryDarkColor": "#000063",
+    "type": "free", "name": "900",
+    "primaryTextColor": "#ffffff"
+  },
+  {
+    "primaryColor": "#b388ff",
+    "primaryLightColor": "#e7b9ff",
+    "primaryDarkColor": "#805acb",
+    "type": "free", "name": "A100",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#7c4dff",
+    "primaryLightColor": "#b47cff",
+    "primaryDarkColor": "#3f1dcb",
+    "type": "free", "name": "A200",
+    "primaryTextColor": "#ffffff"
+  },
+  {
+    "primaryColor": "#651fff",
+    "primaryLightColor": "#a255ff",
+    "primaryDarkColor": "#0100ca",
+    "type": "free", "name": "A400",
+    "primaryTextColor": "#ffffff"
+  },
+  {
+    "primaryColor": "#6200ea",
+    "primaryLightColor": "#9d46ff",
+    "primaryDarkColor": "#0a00b6",
+    "type": "free", "name": "A700",
+    "primaryTextColor": "#ffffff"
+  },
+
+  {
+    "name": "Indigo",
+    "type": "break"
+  },
+  {
+    "primaryColor": "#e8eaf6",
+    "primaryLightColor": "#ffffff",
+    "primaryDarkColor": "#b6b8c3",
+    "type": "free", "name": "50",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#c5cae9",
+    "primaryLightColor": "#f8fdff",
+    "primaryDarkColor": "#9499b7",
+    "type": "free", "name": "100",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#9fa8da",
+    "primaryLightColor": "#d1d9ff",
+    "primaryDarkColor": "#6f79a8",
+    "type": "free", "name": "200",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#7986cb",
+    "primaryLightColor": "#aab6fe",
+    "primaryDarkColor": "#49599a",
+    "type": "free", "name": "300",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#5c6bc0",
+    "primaryLightColor": "#8e99f3",
+    "primaryDarkColor": "#26418f",
+    "type": "free", "name": "400",
+    "primaryTextColor": "#ffffff"
+  },
+  {
+    "primaryColor": "#3f51b5",
+    "primaryLightColor": "#757de8",
+    "primaryDarkColor": "#002984",
+    "type": "free", "name": "500",
+    "primaryTextColor": "#ffffff"
+  },
+  {
+    "primaryColor": "#3949ab",
+    "primaryLightColor": "#6f74dd",
+    "primaryDarkColor": "#00227b",
+    "type": "free", "name": "600",
+    "primaryTextColor": "#ffffff"
+  },
+  {
+    "primaryColor": "#303f9f",
+    "primaryLightColor": "#666ad1",
+    "primaryDarkColor": "#001970",
+    "type": "free", "name": "700",
+    "primaryTextColor": "#ffffff"
+  },
+  {
+    "primaryColor": "#283593",
+    "primaryLightColor": "#5f5fc4",
+    "primaryDarkColor": "#001064",
+    "type": "free", "name": "800",
+    "primaryTextColor": "#ffffff"
+  },
+  {
+    "primaryColor": "#1a237e",
+    "primaryLightColor": "#534bae",
+    "primaryDarkColor": "#000051",
+    "type": "free", "name": "900",
+    "primaryTextColor": "#ffffff"
+  },
+  {
+    "primaryColor": "#8c9eff",
+    "primaryLightColor": "#c0cfff",
+    "primaryDarkColor": "#5870cb",
+    "type": "free", "name": "A100",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#536dfe",
+    "primaryLightColor": "#8f9bff",
+    "primaryDarkColor": "#0043ca",
+    "type": "free", "name": "A200",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#3d5afe",
+    "primaryLightColor": "#8187ff",
+    "primaryDarkColor": "#0031ca",
+    "type": "free", "name": "A400",
+    "primaryTextColor": "#ffffff"
+  },
+  {
+    "primaryColor": "#304ffe",
+    "primaryLightColor": "#7a7cff",
+    "primaryDarkColor": "#0026ca",
+    "type": "free", "name": "A700",
+    "primaryTextColor": "#ffffff"
+  },
+
+  {
+    "name": "Blue",
+    "type": "break"
+  },
+  {
+    "primaryColor": "#e3f2fd",
+    "primaryLightColor": "#ffffff",
+    "primaryDarkColor": "#b1bfca",
+    "type": "free", "name": "50",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#bbdefb",
+    "primaryLightColor": "#eeffff",
+    "primaryDarkColor": "#8aacc8",
+    "type": "free", "name": "100",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#90caf9",
+    "primaryLightColor": "#c3fdff",
+    "primaryDarkColor": "#5d99c6",
+    "type": "free", "name": "200",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#64b5f6",
+    "primaryLightColor": "#9be7ff",
+    "primaryDarkColor": "#2286c3",
+    "type": "free", "name": "300",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#42a5f5",
+    "primaryLightColor": "#80d6ff",
+    "primaryDarkColor": "#0077c2",
+    "type": "free", "name": "400",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#2196f3",
+    "primaryLightColor": "#6ec6ff",
+    "primaryDarkColor": "#0069c0",
+    "type": "free", "name": "500",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#1e88e5",
+    "primaryLightColor": "#6ab7ff",
+    "primaryDarkColor": "#005cb2",
+    "type": "free", "name": "600",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#1976d2",
+    "primaryLightColor": "#63a4ff",
+    "primaryDarkColor": "#004ba0",
+    "type": "free", "name": "700",
+    "primaryTextColor": "#ffffff"
+  },
+  {
+    "primaryColor": "#1565c0",
+    "primaryLightColor": "#5e92f3",
+    "primaryDarkColor": "#003c8f",
+    "type": "free", "name": "800",
+    "primaryTextColor": "#ffffff"
+  },
+  {
+    "primaryColor": "#0d47a1",
+    "primaryLightColor": "#5472d3",
+    "primaryDarkColor": "#002171",
+    "type": "free", "name": "900",
+    "primaryTextColor": "#ffffff"
+  },
+  {
+    "primaryColor": "#82b1ff",
+    "primaryLightColor": "#b6e3ff",
+    "primaryDarkColor": "#4d82cb",
+    "type": "free", "name": "A100",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#448aff",
+    "primaryLightColor": "#83b9ff",
+    "primaryDarkColor": "#005ecb",
+    "type": "free", "name": "A200",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#2979ff",
+    "primaryLightColor": "#75a7ff",
+    "primaryDarkColor": "#004ecb",
+    "type": "free", "name": "A400",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#2962ff",
+    "primaryLightColor": "#768fff",
+    "primaryDarkColor": "#0039cb",
+    "type": "free", "name": "A700",
+    "primaryTextColor": "#ffffff"
+  },
+
+  {
+    "name": "Light Blue",
+    "type": "break"
+  },
+  {
+    "primaryColor": "#e1f5fe",
+    "primaryLightColor": "#ffffff",
+    "primaryDarkColor": "#afc2cb",
+    "type": "free", "name": "50",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#b3e5fc",
+    "primaryLightColor": "#e6ffff",
+    "primaryDarkColor": "#82b3c9",
+    "type": "free", "name": "100",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#81d4fa",
+    "primaryLightColor": "#b6ffff",
+    "primaryDarkColor": "#4ba3c7",
+    "type": "free", "name": "200",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#4fc3f7",
+    "primaryLightColor": "#8bf6ff",
+    "primaryDarkColor": "#0093c4",
+    "type": "free", "name": "300",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#29b6f6",
+    "primaryLightColor": "#73e8ff",
+    "primaryDarkColor": "#0086c3",
+    "type": "free", "name": "400",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#03a9f4",
+    "primaryLightColor": "#67daff",
+    "primaryDarkColor": "#007ac1",
+    "type": "free", "name": "500",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#039be5",
+    "primaryLightColor": "#63ccff",
+    "primaryDarkColor": "#006db3",
+    "type": "free", "name": "600",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#0288d1",
+    "primaryLightColor": "#5eb8ff",
+    "primaryDarkColor": "#005b9f",
+    "type": "free", "name": "700",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#0277bd",
+    "primaryLightColor": "#58a5f0",
+    "primaryDarkColor": "#004c8c",
+    "type": "free", "name": "800",
+    "primaryTextColor": "#ffffff"
+  },
+  {
+    "primaryColor": "#01579b",
+    "primaryLightColor": "#4f83cc",
+    "primaryDarkColor": "#002f6c",
+    "type": "free", "name": "900",
+    "primaryTextColor": "#ffffff"
+  },
+  {
+    "primaryColor": "#80d8ff",
+    "primaryLightColor": "#b5ffff",
+    "primaryDarkColor": "#49a7cc",
+    "type": "free", "name": "A100",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#40c4ff",
+    "primaryLightColor": "#82f7ff",
+    "primaryDarkColor": "#0094cc",
+    "type": "free", "name": "A200",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#00b0ff",
+    "primaryLightColor": "#69e2ff",
+    "primaryDarkColor": "#0081cb",
+    "type": "free", "name": "A400",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#0091ea",
+    "primaryLightColor": "#64c1ff",
+    "primaryDarkColor": "#0064b7",
+    "type": "free", "name": "A700",
+    "primaryTextColor": "#000000"
+  },
+
+
+  {
+    "name": "Cyan",
+    "type": "break"
+  },
+  {
+    "primaryColor": "#e0f7fa",
+    "primaryLightColor": "#ffffff",
+    "primaryDarkColor": "#aec4c7",
+    "type": "free", "name": "50",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#b2ebf2",
+    "primaryLightColor": "#e5ffff",
+    "primaryDarkColor": "#81b9bf",
+    "type": "free", "name": "100",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#80deea",
+    "primaryLightColor": "#b4ffff",
+    "primaryDarkColor": "#4bacb8",
+    "type": "free", "name": "200",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#4dd0e1",
+    "primaryLightColor": "#88ffff",
+    "primaryDarkColor": "#009faf",
+    "type": "free", "name": "300",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#26c6da",
+    "primaryLightColor": "#6ff9ff",
+    "primaryDarkColor": "#0095a8",
+    "type": "free", "name": "400",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#00bcd4",
+    "primaryLightColor": "#62efff",
+    "primaryDarkColor": "#008ba3",
+    "type": "free", "name": "500",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#00acc1",
+    "primaryLightColor": "#5ddef4",
+    "primaryDarkColor": "#007c91",
+    "type": "free", "name": "600",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#0097a7",
+    "primaryLightColor": "#56c8d8",
+    "primaryDarkColor": "#006978",
+    "type": "free", "name": "700",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#00838f",
+    "primaryLightColor": "#4fb3bf",
+    "primaryDarkColor": "#005662",
+    "type": "free", "name": "800",
+    "primaryTextColor": "#ffffff"
+  },
+  {
+    "primaryColor": "#006064",
+    "primaryLightColor": "#428e92",
+    "primaryDarkColor": "#00363a",
+    "type": "free", "name": "900",
+    "primaryTextColor": "#ffffff"
+  },
+  {
+    "primaryColor": "#84ffff",
+    "primaryLightColor": "#baffff",
+    "primaryDarkColor": "#4bcbcc",
+    "type": "free", "name": "A100",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#18ffff",
+    "primaryLightColor": "#76ffff",
+    "primaryDarkColor": "#00cbcc",
+    "type": "free", "name": "A200",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#00e5ff",
+    "primaryLightColor": "#6effff",
+    "primaryDarkColor": "#00b2cc",
+    "type": "free", "name": "A400",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#00b8d4",
+    "primaryLightColor": "#62ebff",
+    "primaryDarkColor": "#0088a3",
+    "type": "free", "name": "A700",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "name": "Teal",
+    "type": "break"
+  },
+
+
+  {
+    "primaryColor": "#e0f2f1",
+    "primaryLightColor": "#ffffff",
+    "primaryDarkColor": "#aebfbe",
+    "type": "free", "name": "50",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#b2dfdb",
+    "primaryLightColor": "#e5ffff",
+    "primaryDarkColor": "#82ada9",
+    "type": "free", "name": "100",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#80cbc4",
+    "primaryLightColor": "#b2fef7",
+    "primaryDarkColor": "#4f9a94",
+    "type": "free", "name": "200",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#4db6ac",
+    "primaryLightColor": "#82e9de",
+    "primaryDarkColor": "#00867d",
+    "type": "free", "name": "300",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#26a69a",
+    "primaryLightColor": "#64d8cb",
+    "primaryDarkColor": "#00766c",
+    "type": "free", "name": "400",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#009688",
+    "primaryLightColor": "#52c7b8",
+    "primaryDarkColor": "#00675b",
+    "type": "free", "name": "500",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#00897b",
+    "primaryLightColor": "#4ebaaa",
+    "primaryDarkColor": "#005b4f",
+    "type": "free", "name": "600",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#00796b",
+    "primaryLightColor": "#48a999",
+    "primaryDarkColor": "#004c40",
+    "type": "free", "name": "700",
+    "primaryTextColor": "#ffffff"
+  },
+  {
+    "primaryColor": "#00695c",
+    "primaryLightColor": "#439889",
+    "primaryDarkColor": "#003d33",
+    "type": "free", "name": "800",
+    "primaryTextColor": "#ffffff"
+  },
+  {
+    "primaryColor": "#004d40",
+    "primaryLightColor": "#39796b",
+    "primaryDarkColor": "#00251a",
+    "type": "free", "name": "900",
+    "primaryTextColor": "#ffffff"
+  },
+  {
+    "primaryColor": "#a7ffeb",
+    "primaryLightColor": "#dbffff",
+    "primaryDarkColor": "#75ccb9",
+    "type": "free", "name": "A100",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#64ffda",
+    "primaryLightColor": "#9effff",
+    "primaryDarkColor": "#14cba8",
+    "type": "free", "name": "A200",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#1de9b6",
+    "primaryLightColor": "#6effe8",
+    "primaryDarkColor": "#00b686",
+    "type": "free", "name": "A400",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#00bfa5",
+    "primaryLightColor": "#5df2d6",
+    "primaryDarkColor": "#008e76",
+    "type": "free", "name": "A700",
+    "primaryTextColor": "#000000"
+  },
+
+  {
+    "name": "Green",
+    "type": "break"
+  },
+  {
+    "primaryColor": "#e8f5e9",
+    "primaryLightColor": "#ffffff",
+    "primaryDarkColor": "#b6c2b7",
+    "type": "free", "name": "50",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#c8e6c9",
+    "primaryLightColor": "#fbfffc",
+    "primaryDarkColor": "#97b498",
+    "type": "free", "name": "100",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#a5d6a7",
+    "primaryLightColor": "#d7ffd9",
+    "primaryDarkColor": "#75a478",
+    "type": "free", "name": "200",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#81c784",
+    "primaryLightColor": "#b2fab4",
+    "primaryDarkColor": "#519657",
+    "type": "free", "name": "300",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#66bb6a",
+    "primaryLightColor": "#98ee99",
+    "primaryDarkColor": "#338a3e",
+    "type": "free", "name": "400",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#4caf50",
+    "primaryLightColor": "#80e27e",
+    "primaryDarkColor": "#087f23",
+    "type": "free", "name": "500",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#43a047",
+    "primaryLightColor": "#76d275",
+    "primaryDarkColor": "#00701a",
+    "type": "free", "name": "600",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#388e3c",
+    "primaryLightColor": "#6abf69",
+    "primaryDarkColor": "#00600f",
+    "type": "free", "name": "700",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#2e7d32",
+    "primaryLightColor": "#60ad5e",
+    "primaryDarkColor": "#005005",
+    "type": "free", "name": "800",
+    "primaryTextColor": "#ffffff"
+  },
+  {
+    "primaryColor": "#1b5e20",
+    "primaryLightColor": "#4c8c4a",
+    "primaryDarkColor": "#003300",
+    "type": "free", "name": "900",
+    "primaryTextColor": "#ffffff"
+  },
+  {
+    "primaryColor": "#b9f6ca",
+    "primaryLightColor": "#ecfffd",
+    "primaryDarkColor": "#88c399",
+    "type": "free", "name": "A100",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#69f0ae",
+    "primaryLightColor": "#9fffe0",
+    "primaryDarkColor": "#2bbd7e",
+    "type": "free", "name": "A200",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#00e676",
+    "primaryLightColor": "#66ffa6",
+    "primaryDarkColor": "#00b248",
+    "type": "free", "name": "A400",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#00c853",
+    "primaryLightColor": "#5efc82",
+    "primaryDarkColor": "#009624",
+    "type": "free", "name": "A700",
+    "primaryTextColor": "#000000"
+  },
+
+  {
+    "name": "Light Green",
+    "type": "break"
+  },
+  {
+    "primaryColor": "#f1f8e9",
+    "primaryLightColor": "#ffffff",
+    "primaryDarkColor": "#bec5b7",
+    "type": "free", "name": "50",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#dcedc8",
+    "primaryLightColor": "#fffffb",
+    "primaryDarkColor": "#aabb97",
+    "type": "free", "name": "100",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#c5e1a5",
+    "primaryLightColor": "#f8ffd7",
+    "primaryDarkColor": "#94af76",
+    "type": "free", "name": "200",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#aed581",
+    "primaryLightColor": "#e1ffb1",
+    "primaryDarkColor": "#7da453",
+    "type": "free", "name": "300",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#9ccc65",
+    "primaryLightColor": "#cfff95",
+    "primaryDarkColor": "#6b9b37",
+    "type": "free", "name": "400",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#8bc34a",
+    "primaryLightColor": "#bef67a",
+    "primaryDarkColor": "#5a9216",
+    "type": "free", "name": "500",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#7cb342",
+    "primaryLightColor": "#aee571",
+    "primaryDarkColor": "#4b830d",
+    "type": "free", "name": "600",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#689f38",
+    "primaryLightColor": "#99d066",
+    "primaryDarkColor": "#387002",
+    "type": "free", "name": "700",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#558b2f",
+    "primaryLightColor": "#85bb5c",
+    "primaryDarkColor": "#255d00",
+    "type": "free", "name": "800",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#33691e",
+    "primaryLightColor": "#629749",
+    "primaryDarkColor": "#003d00",
+    "type": "free", "name": "900",
+    "primaryTextColor": "#ffffff"
+  },
+  {
+    "primaryColor": "#ccff90",
+    "primaryLightColor": "#ffffc2",
+    "primaryDarkColor": "#99cc60",
+    "type": "free", "name": "A100",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#b2ff59",
+    "primaryLightColor": "#e7ff8c",
+    "primaryDarkColor": "#7ecb20",
+    "type": "free", "name": "A200",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#76ff03",
+    "primaryLightColor": "#b0ff57",
+    "primaryDarkColor": "#32cb00",
+    "type": "free", "name": "A400",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#64dd17",
+    "primaryLightColor": "#9cff57",
+    "primaryDarkColor": "#1faa00",
+    "type": "free", "name": "A700",
+    "primaryTextColor": "#000000"
+  },
+
+
+  {
+    "name": "Lime",
+    "type": "break"
+  },
+  {
+    "primaryColor": "#f9fbe7",
+    "primaryLightColor": "#ffffff",
+    "primaryDarkColor": "#c6c8b5",
+    "type": "free", "name": "50",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#f0f4c3",
+    "primaryLightColor": "#fffff6",
+    "primaryDarkColor": "#bdc192",
+    "type": "free", "name": "100",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#e6ee9c",
+    "primaryLightColor": "#ffffce",
+    "primaryDarkColor": "#b3bc6d",
+    "type": "free", "name": "200",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#dce775",
+    "primaryLightColor": "#ffffa6",
+    "primaryDarkColor": "#a8b545",
+    "type": "free", "name": "300",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#d4e157",
+    "primaryLightColor": "#ffff89",
+    "primaryDarkColor": "#a0af22",
+    "type": "free", "name": "400",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#cddc39",
+    "primaryLightColor": "#ffff6e",
+    "primaryDarkColor": "#99aa00",
+    "type": "free", "name": "500",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#c0ca33",
+    "primaryLightColor": "#f5fd67",
+    "primaryDarkColor": "#8c9900",
+    "type": "free", "name": "600",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#afb42b",
+    "primaryLightColor": "#e4e65e",
+    "primaryDarkColor": "#7c8500",
+    "type": "free", "name": "700",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#9e9d24",
+    "primaryLightColor": "#d2ce56",
+    "primaryDarkColor": "#6c6f00",
+    "type": "free", "name": "800",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#827717",
+    "primaryLightColor": "#b4a647",
+    "primaryDarkColor": "#524c00",
+    "type": "free", "name": "900",
+    "primaryTextColor": "#ffffff"
+  },
+  {
+    "primaryColor": "#f4ff81",
+    "primaryLightColor": "#ffffb3",
+    "primaryDarkColor": "#bfcc50",
+    "type": "free", "name": "A100",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#eeff41",
+    "primaryLightColor": "#ffff78",
+    "primaryDarkColor": "#b8cc00",
+    "type": "free", "name": "A200",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#c6ff00",
+    "primaryLightColor": "#fdff58",
+    "primaryDarkColor": "#90cc00",
+    "type": "free", "name": "A400",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#aeea00",
+    "primaryLightColor": "#e4ff54",
+    "primaryDarkColor": "#79b700",
+    "type": "free", "name": "A700",
+    "primaryTextColor": "#000000"
+  },
+
+  {
+    "name": "Yellow",
+    "type": "break"
+  },
+  {
+    "primaryColor": "#fffde7",
+    "primaryLightColor": "#ffffff",
+    "primaryDarkColor": "#cccab5",
+    "type": "free", "name": "50",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#fff9c4",
+    "primaryLightColor": "#fffff7",
+    "primaryDarkColor": "#cbc693",
+    "type": "free", "name": "100",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#fff59d",
+    "primaryLightColor": "#ffffcf",
+    "primaryDarkColor": "#cbc26d",
+    "type": "free", "name": "200",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#fff176",
+    "primaryLightColor": "#ffffa8",
+    "primaryDarkColor": "#cabf45",
+    "type": "free", "name": "300",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#ffee58",
+    "primaryLightColor": "#ffff8b",
+    "primaryDarkColor": "#c9bc1f",
+    "type": "free", "name": "400",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#ffeb3b",
+    "primaryLightColor": "#ffff72",
+    "primaryDarkColor": "#c8b900",
+    "type": "free", "name": "500",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#fdd835",
+    "primaryLightColor": "#ffff6b",
+    "primaryDarkColor": "#c6a700",
+    "type": "free", "name": "600",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#fbc02d",
+    "primaryLightColor": "#fff263",
+    "primaryDarkColor": "#c49000",
+    "type": "free", "name": "700",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#f9a825",
+    "primaryLightColor": "#ffd95a",
+    "primaryDarkColor": "#c17900",
+    "type": "free", "name": "800",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#f57f17",
+    "primaryLightColor": "#ffb04c",
+    "primaryDarkColor": "#bc5100",
+    "type": "free", "name": "900",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#ffff8d",
+    "primaryLightColor": "#ffffbf",
+    "primaryDarkColor": "#cacc5d",
+    "type": "free", "name": "A100",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#ffff00",
+    "primaryLightColor": "#ffff5a",
+    "primaryDarkColor": "#c7cc00",
+    "type": "free", "name": "A200",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#ffea00",
+    "primaryLightColor": "#ffff56",
+    "primaryDarkColor": "#c7b800",
+    "type": "free", "name": "A400",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#ffd600",
+    "primaryLightColor": "#ffff52",
+    "primaryDarkColor": "#c7a500",
+    "type": "free", "name": "A700",
+    "primaryTextColor": "#000000"
+  },
+
+  {
+    "name": "Amber",
+    "type": "break"
+  },
+  {
+    "primaryColor": "#fff8e1",
+    "primaryLightColor": "#ffffff",
+    "primaryDarkColor": "#ccc5af",
+    "type": "free", "name": "50",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#ffecb3",
+    "primaryLightColor": "#ffffe5",
+    "primaryDarkColor": "#cbba83",
+    "type": "free", "name": "100",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#ffe082",
+    "primaryLightColor": "#ffffb3",
+    "primaryDarkColor": "#caae53",
+    "type": "free", "name": "200",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#ffd54f",
+    "primaryLightColor": "#ffff81",
+    "primaryDarkColor": "#c8a415",
+    "type": "free", "name": "300",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#ffca28",
+    "primaryLightColor": "#fffd61",
+    "primaryDarkColor": "#c79a00",
+    "type": "free", "name": "400",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#ffc107",
+    "primaryLightColor": "#fff350",
+    "primaryDarkColor": "#c79100",
+    "type": "free", "name": "500",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#ffb300",
+    "primaryLightColor": "#ffe54c",
+    "primaryDarkColor": "#c68400",
+    "type": "free", "name": "600",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#ffa000",
+    "primaryLightColor": "#ffd149",
+    "primaryDarkColor": "#c67100",
+    "type": "free", "name": "700",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#ff8f00",
+    "primaryLightColor": "#ffc046",
+    "primaryDarkColor": "#c56000",
+    "type": "free", "name": "800",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#ff6f00",
+    "primaryLightColor": "#ffa040",
+    "primaryDarkColor": "#c43e00",
+    "type": "free", "name": "900",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#ffe57f",
+    "primaryLightColor": "#ffffb0",
+    "primaryDarkColor": "#cab350",
+    "type": "free", "name": "A100",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#ffd740",
+    "primaryLightColor": "#ffff74",
+    "primaryDarkColor": "#c8a600",
+    "type": "free", "name": "A200",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#ffc400",
+    "primaryLightColor": "#fff64f",
+    "primaryDarkColor": "#c79400",
+    "type": "free", "name": "A400",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#ffab00",
+    "primaryLightColor": "#ffdd4b",
+    "primaryDarkColor": "#c67c00",
+    "type": "free", "name": "A700",
+    "primaryTextColor": "#000000"
+  },
+
+  {
+    "name": "Orange",
+    "type": "break"
+  },
+  {
+    "primaryColor": "#fff3e0",
+    "primaryLightColor": "#ffffff",
+    "primaryDarkColor": "#ccc0ae",
+    "type": "free", "name": "50",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#ffe0b2",
+    "primaryLightColor": "#ffffe4",
+    "primaryDarkColor": "#cbae82",
+    "type": "free", "name": "100",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#ffcc80",
+    "primaryLightColor": "#ffffb0",
+    "primaryDarkColor": "#ca9b52",
+    "type": "free", "name": "200",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#ffb74d",
+    "primaryLightColor": "#ffe97d",
+    "primaryDarkColor": "#c88719",
+    "type": "free", "name": "300",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#ffa726",
+    "primaryLightColor": "#ffd95b",
+    "primaryDarkColor": "#c77800",
+    "type": "free", "name": "400",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#ff9800",
+    "primaryLightColor": "#ffc947",
+    "primaryDarkColor": "#c66900",
+    "type": "free", "name": "500",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#fb8c00",
+    "primaryLightColor": "#ffbd45",
+    "primaryDarkColor": "#c25e00",
+    "type": "free", "name": "600",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#f57c00",
+    "primaryLightColor": "#ffad42",
+    "primaryDarkColor": "#bb4d00",
+    "type": "free", "name": "700",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#ef6c00",
+    "primaryLightColor": "#ff9d3f",
+    "primaryDarkColor": "#b53d00",
+    "type": "free", "name": "800",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#e65100",
+    "primaryLightColor": "#ff833a",
+    "primaryDarkColor": "#ac1900",
+    "type": "free", "name": "900",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#ffd180",
+    "primaryLightColor": "#ffffb1",
+    "primaryDarkColor": "#caa052",
+    "type": "free", "name": "A100",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#ffab40",
+    "primaryLightColor": "#ffdd71",
+    "primaryDarkColor": "#c77c02",
+    "type": "free", "name": "A200",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#ff9100",
+    "primaryLightColor": "#ffc246",
+    "primaryDarkColor": "#c56200",
+    "type": "free", "name": "A400",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#ff6d00",
+    "primaryLightColor": "#ff9e40",
+    "primaryDarkColor": "#c43c00",
+    "type": "free", "name": "A700",
+    "primaryTextColor": "#000000"
+  },
+
+  {
+    "name": "Deep Orange",
+    "type": "break"
+  },
+  {
+    "primaryColor": "#fbe9e7",
+    "primaryLightColor": "#ffffff",
+    "primaryDarkColor": "#c8b7b5",
+    "type": "free", "name": "50",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#ffccbc",
+    "primaryLightColor": "#ffffee",
+    "primaryDarkColor": "#cb9b8c",
+    "type": "free", "name": "100",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#ffab91",
+    "primaryLightColor": "#ffddc1",
+    "primaryDarkColor": "#c97b63",
+    "type": "free", "name": "200",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#ff8a65",
+    "primaryLightColor": "#ffbb93",
+    "primaryDarkColor": "#c75b39",
+    "type": "free", "name": "300",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#ff7043",
+    "primaryLightColor": "#ffa270",
+    "primaryDarkColor": "#c63f17",
+    "type": "free", "name": "400",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#ff5722",
+    "primaryLightColor": "#ff8a50",
+    "primaryDarkColor": "#c41c00",
+    "type": "free", "name": "500",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#f4511e",
+    "primaryLightColor": "#ff844c",
+    "primaryDarkColor": "#b91400",
+    "type": "free", "name": "600",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#e64a19",
+    "primaryLightColor": "#ff7d47",
+    "primaryDarkColor": "#ac0800",
+    "type": "free", "name": "700",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#d84315",
+    "primaryLightColor": "#ff7543",
+    "primaryDarkColor": "#9f0000",
+    "type": "free", "name": "800",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#bf360c",
+    "primaryLightColor": "#f9683a",
+    "primaryDarkColor": "#870000",
+    "type": "free", "name": "900",
+    "primaryTextColor": "#ffffff"
+  },
+  {
+    "primaryColor": "#ff9e80",
+    "primaryLightColor": "#ffd0b0",
+    "primaryDarkColor": "#c96f53",
+    "type": "free", "name": "A100",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#ff6e40",
+    "primaryLightColor": "#ffa06d",
+    "primaryDarkColor": "#c53d13",
+    "type": "free", "name": "A200",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#ff3d00",
+    "primaryLightColor": "#ff7539",
+    "primaryDarkColor": "#c30000",
+    "type": "free", "name": "A400",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#dd2c00",
+    "primaryLightColor": "#ff6434",
+    "primaryDarkColor": "#a30000",
+    "type": "free", "name": "A700",
+    "primaryTextColor": "#ffffff"
+  },
+
+  {
+    "name": "Brown",
+    "type": "break"
+  },
+  {
+    "primaryColor": "#efebe9",
+    "primaryLightColor": "#ffffff",
+    "primaryDarkColor": "#bdb9b7",
+    "type": "free", "name": "50",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#d7ccc8",
+    "primaryLightColor": "#fffffb",
+    "primaryDarkColor": "#a69b97",
+    "type": "free", "name": "100",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#bcaaa4",
+    "primaryLightColor": "#efdcd5",
+    "primaryDarkColor": "#8c7b75",
+    "type": "free", "name": "200",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#a1887f",
+    "primaryLightColor": "#d3b8ae",
+    "primaryDarkColor": "#725b53",
+    "type": "free", "name": "300",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#8d6e63",
+    "primaryLightColor": "#be9c91",
+    "primaryDarkColor": "#5f4339",
+    "type": "free", "name": "400",
+    "primaryTextColor": "#ffffff"
+  },
+  {
+    "primaryColor": "#795548",
+    "primaryLightColor": "#a98274",
+    "primaryDarkColor": "#4b2c20",
+    "type": "free", "name": "500",
+    "primaryTextColor": "#ffffff"
+  },
+  {
+    "primaryColor": "#6d4c41",
+    "primaryLightColor": "#9c786c",
+    "primaryDarkColor": "#40241a",
+    "type": "free", "name": "600",
+    "primaryTextColor": "#ffffff"
+  },
+  {
+    "primaryColor": "#5d4037",
+    "primaryLightColor": "#8b6b61",
+    "primaryDarkColor": "#321911",
+    "type": "free", "name": "700",
+    "primaryTextColor": "#ffffff"
+  },
+  {
+    "primaryColor": "#4e342e",
+    "primaryLightColor": "#7b5e57",
+    "primaryDarkColor": "#260e04",
+    "type": "free", "name": "800",
+    "primaryTextColor": "#ffffff"
+  },
+  {
+    "primaryColor": "#3e2723",
+    "primaryLightColor": "#6a4f4b",
+    "primaryDarkColor": "#1b0000",
+    "type": "free", "name": "900",
+    "primaryTextColor": "#ffffff"
+  },
+
+  {
+    "name": "Grey",
+    "type": "break"
+  },
+  {
+    "primaryColor": "#fafafa",
+    "primaryLightColor": "#ffffff",
+    "primaryDarkColor": "#c7c7c7",
+    "type": "free", "name": "50",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#f5f5f5",
+    "primaryLightColor": "#ffffff",
+    "primaryDarkColor": "#c2c2c2",
+    "type": "free", "name": "100",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#eeeeee",
+    "primaryLightColor": "#ffffff",
+    "primaryDarkColor": "#bcbcbc",
+    "type": "free", "name": "200",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#e0e0e0",
+    "primaryLightColor": "#ffffff",
+    "primaryDarkColor": "#aeaeae",
+    "type": "free", "name": "300",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#bdbdbd",
+    "primaryLightColor": "#efefef",
+    "primaryDarkColor": "#8d8d8d",
+    "type": "free", "name": "400",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#9e9e9e",
+    "primaryLightColor": "#cfcfcf",
+    "primaryDarkColor": "#707070",
+    "type": "free", "name": "500",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#757575",
+    "primaryLightColor": "#a4a4a4",
+    "primaryDarkColor": "#494949",
+    "type": "free", "name": "600",
+    "primaryTextColor": "#ffffff"
+  },
+  {
+    "primaryColor": "#616161",
+    "primaryLightColor": "#8e8e8e",
+    "primaryDarkColor": "#373737",
+    "type": "free", "name": "700",
+    "primaryTextColor": "#ffffff"
+  },
+  {
+    "primaryColor": "#424242",
+    "primaryLightColor": "#6d6d6d",
+    "primaryDarkColor": "#1b1b1b",
+    "type": "free", "name": "800",
+    "primaryTextColor": "#ffffff"
+  },
+  {
+    "primaryColor": "#212121",
+    "primaryLightColor": "#484848",
+    "primaryDarkColor": "#000000",
+    "type": "free", "name": "900",
+    "primaryTextColor": "#ffffff"
+  }
+  ,
+  {
+    "name": "Blue Grey",
+    "type": "break"
+  },
+  {
+    "primaryColor": "#eceff1",
+    "primaryLightColor": "#ffffff",
+    "primaryDarkColor": "#babdbe",
+    "type": "free", "name": "50",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#cfd8dc",
+    "primaryLightColor": "#ffffff",
+    "primaryDarkColor": "#9ea7aa",
+    "type": "free", "name": "100",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#b0bec5",
+    "primaryLightColor": "#e2f1f8",
+    "primaryDarkColor": "#808e95",
+    "type": "free", "name": "200",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#90a4ae",
+    "primaryLightColor": "#c1d5e0",
+    "primaryDarkColor": "#62757f",
+    "type": "free", "name": "300",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#78909c",
+    "primaryLightColor": "#a7c0cd",
+    "primaryDarkColor": "#4b636e",
+    "type": "free", "name": "400",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#607d8b",
+    "primaryLightColor": "#8eacbb",
+    "primaryDarkColor": "#34515e",
+    "type": "free", "name": "500",
+    "primaryTextColor": "#000000"
+  },
+  {
+    "primaryColor": "#546e7a",
+    "primaryLightColor": "#819ca9",
+    "primaryDarkColor": "#29434e",
+    "type": "free", "name": "600",
+    "primaryTextColor": "#ffffff"
+  },
+  {
+    "primaryColor": "#455a64",
+    "primaryLightColor": "#718792",
+    "primaryDarkColor": "#1c313a",
+    "type": "free", "name": "700",
+    "primaryTextColor": "#ffffff"
+  },
+  {
+    "primaryColor": "#37474f",
+    "primaryLightColor": "#62727b",
+    "primaryDarkColor": "#102027",
+    "type": "free", "name": "800",
+    "primaryTextColor": "#ffffff"
+  },
+  {
+    "primaryColor": "#263238",
+    "primaryLightColor": "#4f5b62",
+    "primaryDarkColor": "#000a12",
+    "type": "free", "name": "900",
+    "primaryTextColor": "#ffffff"
+  }
+]

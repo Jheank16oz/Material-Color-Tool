@@ -1,13 +1,12 @@
 package com.jheank16oz.materialcolortool.selectcolor
 
 import android.os.Bundle
-import android.support.v4.app.Fragment
+import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import com.jheank16oz.materialcolortool.R
 import io.doist.recyclerviewext.sticky_headers.StickyHeadersLinearLayoutManager
-import kotlinx.android.synthetic.main.selectcolor_frag.*
 import kotlinx.android.synthetic.main.selectcolor_frag.view.*
 
 class SelectColorFragment : Fragment(),SelectColorViewHolder.Callbacks, SelectColorContract.View {
@@ -34,7 +33,7 @@ class SelectColorFragment : Fragment(),SelectColorViewHolder.Callbacks, SelectCo
             list.addItemDecoration(DividerDecoration(context))
             list.setHasFixedSize(true)
             list.layoutManager = StickyHeadersLinearLayoutManager<SelectColorAdapter>(context)
-            mViewAdapter = SelectColorAdapter(this@SelectColorFragment)
+            mViewAdapter = SelectColorAdapter(this@SelectColorFragment, context)
             list.adapter = mViewAdapter
 
             presenter.initializeData()

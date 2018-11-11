@@ -1,6 +1,7 @@
 package com.jheank16oz.materialcolortool.selectcolor
 
-import android.support.v7.widget.RecyclerView
+import android.graphics.Color
+import androidx.recyclerview.widget.RecyclerView
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
@@ -20,7 +21,7 @@ class SelectColorViewHolder(itemView: View, private val mCallbacks: Callbacks?) 
                 return@OnClickListener
             }
             mColor?.let {
-                mCallbacks.onColorClicked(it.id)
+                mCallbacks.onColorClicked(1)
             }
         })
 
@@ -32,7 +33,10 @@ class SelectColorViewHolder(itemView: View, private val mCallbacks: Callbacks?) 
         mColor = item
         val context = itemView.context
         itemView.name.text =  item.name
-        itemView.setBackgroundColor(context.resources.getColor(item.value))
+        itemView.name.setTextColor(Color.parseColor(item.primaryTextColor))
+        itemView.valueHex.setTextColor(Color.parseColor(item.primaryTextColor))
+        itemView.setBackgroundColor(Color.parseColor(item.primaryColor))
+        itemView.valueHex.text = item.primaryColor
 
     }
     interface Callbacks {
